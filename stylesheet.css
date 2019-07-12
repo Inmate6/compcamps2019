@@ -1,0 +1,51 @@
+body  {
+background-color: #FF6F00
+}
+.title{
+color: #5DE698;
+font-family: 'Bahianita', cursive;
+text-align: center;
+font-size: 77px ;
+}
+
+.paragraph{
+color: #EBDE65;
+font-family: 'Bahianita', cursive;
+text-align: center;
+font-size: 22px;
+}
+
+.img {
+  width: 300px;
+display: block;
+margin: 0 auto;
+border-radius: 50%;
+}
+.body{
+  background-color: #3305E8;
+}
+.nav{
+tect-align: center;
+background-color: #66FFE2
+}
+.navbar{
+list-style-type: none;
+}
+
+.navlink{
+  display: inline;
+  margin-left:45px;
+  margin-right: 50px;
+  font-size: 40px;
+}
+
+a{
+text-decoration: none;
+color: #408399;
+}
+
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
